@@ -1,0 +1,16 @@
+.resize
+{
+    max-width:90%;
+    max-height:90%;
+}
+.text-style
+{
+    font-family: "Didact Gothic";
+    font-size: 18px;
+}
+
+.sharePicture
+{
+    width: 70px;
+    height: 70px;
+}
