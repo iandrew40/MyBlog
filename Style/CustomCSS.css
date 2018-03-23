@@ -14,3 +14,29 @@
     width: 70px;
     height: 70px;
 }
+
+.textFacebook
+{
+    color:rgb(57, 91, 154)
+}
+a.textFacebook:hover{
+    color:rgb(57, 91, 154)
+}
+
+.textTwitter
+{
+    color:rgb(52, 205, 255)
+}
+a.textTwitter:hover{
+    color:rgb(52, 205, 255)
+}
+
+
+.textGmail
+{
+    color:rgb(199,22,16)
+}
+a.textGmail:hover
+{
+    color:rgb(199,22,16)
+}
